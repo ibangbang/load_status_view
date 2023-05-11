@@ -1,5 +1,5 @@
 name: load_status_view
-description: A simple LoadStatusView for different status.
+description: A simple view for different status.
 version: 0.0.1
 homepage: https://github.com/ibangbang/load_status_view
 
