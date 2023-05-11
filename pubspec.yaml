@@ -1,7 +1,7 @@
 name: load_status_view
 description: A simple LoadStatusView for different status.
 version: 0.0.1
-homepage:
+homepage: https://github.com/ibangbang/load_status_view
 
 environment:
   sdk: '>=2.19.6 <3.0.0'
