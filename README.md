@@ -6,6 +6,12 @@
 
 A simple view for different status: loading, success, empty, error, unauthorized.
 
+
+| loading | success  |  empty   | error    | unauthorized |
+|---------|----------|----------|----------|--------------|
+| ![-w20](https://github.com/ibangbang/load_status_view/blob/main/preview/1.jpeg) | ![-w20](https://github.com/ibangbang/load_status_view/blob/main/preview/2.jpeg) | ![-w20](https://github.com/ibangbang/load_status_view/blob/main/preview/3.jpeg) | ![-w20](https://github.com/ibangbang/load_status_view/blob/main/preview/4.jpeg) | ![-w20](https://github.com/ibangbang/load_status_view/blob/main/preview/5.jpeg) |
+
+
 ## Getting started
 
 Add the dependency in `pubspec.yaml`:
