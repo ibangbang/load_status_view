@@ -1,5 +1,7 @@
 # LoadStatusView
 
+[![pub package](https://img.shields.io/pub/v/load_status_view.svg)](https://pub.dev/packages/load_status_view)
+
 ## Features
 
 A simple view for different status: loading, success, empty, error, unauthorized.
